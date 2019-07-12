@@ -1,2 +1,3 @@
 my first git test
 txt update1
+github origin connected
